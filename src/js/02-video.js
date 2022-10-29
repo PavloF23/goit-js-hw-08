@@ -1,5 +1,5 @@
-// import Player from '@vimeo/player';
-// import throttle from 'lodash.throttle';
+import Player from '@vimeo/player';
+import throttle from 'lodash.throttle';
 
 const LOCAL_STORAGE_KEY = 'videoplayer-current-time';
 

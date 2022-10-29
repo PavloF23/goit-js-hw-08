@@ -5,9 +5,9 @@
 // console.log(galleryItems);
 
 
-// import SimpleLightbox from 'simplelightbox';
+import SimpleLightbox from 'simplelightbox';
 import { galleryItems } from './gallery-items';
-// import 'simplelightbox/dist/simple-lightbox.min.css';
+import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const galleryRefs = document.querySelector('.gallery');
 const galleryItemsRefs = galleryItemsMarkup(galleryItems);
