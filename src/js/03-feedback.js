@@ -8,6 +8,7 @@ const refs = {
   input: document.querySelector('input'),
 };
 
+
 let savedFormData = JSON.parse(localStorage.getItem(LOCAL_STORAGE_KEY));
 
 refs.form.addEventListener('input', throttle(onFormInput, 500));
