@@ -1,8 +1,5 @@
-// Add imports above this line
-// import { galleryItems } from './gallery-items';
-// Change code below this line
-
-// console.log(galleryItems);
+// 1.Додай бібліотеку SimpleLightbox як залежність проекту, використовуючи npm (посилання на CDN з твоєї минулої роботи більше не потрібне).
+// 2.Використовуй свій JavaScript код з попередньої домашньої роботи, але виконай рефакторинг з урахуванням того, що бібліотека була встановлена через npm (синтаксис import/export).
 
 
 import SimpleLightbox from 'simplelightbox';
